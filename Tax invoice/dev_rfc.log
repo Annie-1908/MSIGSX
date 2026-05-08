@@ -1,0 +1,20 @@
+
+**** Log file opened at 2026-05-07 17:33:21.541383 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : C:\GitHub Project\MSIGSX\Tax invoice
+Program                   : crw64
+Process ID                : 26552
+User                      : user
+Hardware                  : PC with Windows NT 14x AMD64 Level 6 (Mod 170 Step 4)
+Operating_system          : Windows NT 10.0
+Hostname                  : SLD-C089
+IP address                : 192.168.100.124
+IPv6 address              : fdfd::1a85:79b3
+Global trace level        : 0
+
+2026-05-07 17:33:21.534859 [06900] >> Info entry
+	Did not find config file C:\GitHub Project\MSIGSX\Tax invoice\sapnwrfc.ini.
